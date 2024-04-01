@@ -10,8 +10,8 @@ app.use(express.json());
 app.use(cors());
 
 connectDB();
-app.get("/", (res) => {
-  res.send(
+app.get("/", (req, res) => {
+  res.status(200).send(
     `<div>
 
 
