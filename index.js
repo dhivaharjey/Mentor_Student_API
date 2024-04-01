@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
     `<div>
 
 
-<div style="text-adivgn: center; background-color:blue;  padding: 10px;"><h1> NodeJS Hall Booking</h1></div>
+<div style="text-adivgn: center; background-color:blue;  padding: 10px;"><h1>Mentor and Student API</h1></div>
     <div>
 
     <div>
