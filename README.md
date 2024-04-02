@@ -39,4 +39,4 @@
 - Description: Retrieves the previous mentor for a particular student.
 
 - Deployed in [render](https://render.com/)
-- Click here to see [API DOCUMENT LINK]()
+- Click here to see [API DOCUMENT LINK](https://documenter.getpostman.com/view/33076303/2sA35HYMY4)
