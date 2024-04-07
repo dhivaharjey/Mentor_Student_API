@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 import connectDB from "./Database/db.js";
 import routers from "./routers/mentorStudentRouter.js";
 
+dotenv.config();
 const port = process.env.PORT;
 const app = express();
 app.use(express.json());
